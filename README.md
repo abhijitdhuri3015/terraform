@@ -10,6 +10,8 @@ Find providers for many of the platforms and services you already use in the Ter
 
 <img width="846" height="432" alt="image" src="https://github.com/user-attachments/assets/8350a034-3b18-4348-b6ff-fd3b9b7041c6" />
 
-
+Folder Structure:
+basic: Contains one ec2instance.tf file with a single resource defined.
+variables: Contains a ec2instance.tf file with a single resource defined and a variables.tf file with variable definitions.    
 
 
